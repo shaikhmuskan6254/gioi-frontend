@@ -1,0 +1,110 @@
+[
+  {
+      "question": "What is 'political corruption'?",
+      "options": ["The abuse of power by government officials for personal gain", "A type of election", "A voting method", "A government procedure"],
+      "answer": "The abuse of power by government officials for personal gain",
+      "explanation": "Political corruption undermines trust in government and can lead to a range of societal issues, including inequality and injustice."
+  },
+  {
+      "question": "What does 'checks and balances' mean?",
+      "options": ["The system that ensures no branch of government becomes too powerful", "A type of election", "A voting method", "A political strategy"],
+      "answer": "The system that ensures no branch of government becomes too powerful",
+      "explanation": "Checks and balances allow each branch of government to limit the powers of the others, promoting accountability and fairness."
+  },
+  {
+      "question": "What is 'direct democracy'?",
+      "options": ["A system where citizens vote directly on laws and policies", "A type of election", "A voting method", "A government procedure"],
+      "answer": "A system where citizens vote directly on laws and policies",
+      "explanation": "Direct democracy allows citizens to have a direct role in governance, rather than electing representatives to make decisions for them."
+  },
+  {
+      "question": "What does 'nonprofit organization' mean?",
+      "options": ["An organization that uses surplus revenues to achieve its goals rather than distributing profits", "A type of election", "A voting method", "A political strategy"],
+      "answer": "An organization that uses surplus revenues to achieve its goals rather than distributing profits",
+      "explanation": "Nonprofits focus on social causes and reinvest any excess funds into their missions instead of providing profits to owners."
+  },
+  {
+      "question": "What is a 'bipartisan' approach?",
+      "options": ["An agreement or cooperation between two major political parties", "A type of election", "A voting method", "A government procedure"],
+      "answer": "An agreement or cooperation between two major political parties",
+      "explanation": "Bipartisanship aims to foster collaboration on legislation, bridging divides to achieve common goals."
+  },
+  {
+      "question": "What does 'interest group' refer to?",
+      "options": ["An organization that seeks to influence government policy on specific issues", "A type of election", "A voting method", "A government agency"],
+      "answer": "An organization that seeks to influence government policy on specific issues",
+      "explanation": "Interest groups advocate for particular causes, representing various sectors such as business, labor, and environmental interests."
+  },
+  {
+      "question": "What is 'emergency powers'?",
+      "options": ["Temporary powers granted to the government during crises", "A type of election", "A voting method", "A government procedure"],
+      "answer": "Temporary powers granted to the government during crises",
+      "explanation": "Emergency powers allow governments to respond swiftly to threats or disasters, often expanding authority beyond normal limits."
+  },
+  {
+      "question": "What does 'social justice' mean?",
+      "options": ["The fair distribution of resources and opportunities in society", "A type of election", "A voting method", "A political ideology"],
+      "answer": "The fair distribution of resources and opportunities in society",
+      "explanation": "Social justice focuses on equality and fairness, advocating for marginalized groups to ensure their rights and needs are met."
+  },
+  {
+      "question": "What is a 'primary election'?",
+      "options": ["An election where political parties select their candidates for the general election", "A type of election", "A voting method", "A government procedure"],
+      "answer": "An election where political parties select their candidates for the general election",
+      "explanation": "Primary elections can be open or closed and determine which candidates will represent each party in the general election."
+  },
+  {
+      "question": "What does 'income inequality' refer to?",
+      "options": ["The unequal distribution of income among individuals in a society", "A type of election", "A voting method", "A government agency"],
+      "answer": "The unequal distribution of income among individuals in a society",
+      "explanation": "Income inequality can lead to social tensions and disparities in access to resources and opportunities."
+  },
+  {
+      "question": "What is 'voter registration'?",
+      "options": ["The process of signing up to vote in elections", "A type of election", "A voting method", "A government procedure"],
+      "answer": "The process of signing up to vote in elections",
+      "explanation": "Voter registration is essential for participation in elections and helps ensure that all votes are counted accurately."
+  },
+  {
+      "question": "What does 'political culture' mean?",
+      "options": ["The set of attitudes and beliefs that shape political behavior in a society", "A type of election", "A voting method", "A government procedure"],
+      "answer": "The set of attitudes and beliefs that shape political behavior in a society",
+      "explanation": "Political culture influences how citizens perceive their government, participate in politics, and engage with civic life."
+  },
+  {
+      "question": "What is 'grassroots activism'?",
+      "options": ["A movement driven by the local community to effect change", "A type of election", "A voting method", "A political strategy"],
+      "answer": "A movement driven by the local community to effect change",
+      "explanation": "Grassroots activism emphasizes local participation and mobilization, often addressing community-specific issues."
+  },
+  {
+      "question": "What does 'universal suffrage' mean?",
+      "options": ["The right of all adult citizens to vote", "A type of election", "A voting method", "A political strategy"],
+      "answer": "The right of all adult citizens to vote",
+      "explanation": "Universal suffrage is a cornerstone of democracy, ensuring that all individuals have an equal voice in the electoral process."
+  },
+  {
+      "question": "What is 'secession'?",
+      "options": ["The act of withdrawing from a political entity or union", "A type of election", "A voting method", "A government procedure"],
+      "answer": "The act of withdrawing from a political entity or union",
+      "explanation": "Secession can lead to significant political conflict and raises questions about national integrity and governance."
+  },
+  {
+      "question": "What does 'non-governmental organization (NGO)' mean?",
+      "options": ["An organization independent from government that provides services or advocates for a cause", "A type of election", "A voting method", "A political strategy"],
+      "answer": "An organization independent from government that provides services or advocates for a cause",
+      "explanation": "NGOs often address social, environmental, or humanitarian issues and play a crucial role in civil society."
+  },
+  {
+      "question": "What is 'austerity measures'?",
+      "options": ["Policies aimed at reducing government budget deficits through spending cuts", "A type of election", "A voting method", "A political strategy"],
+      "answer": "Policies aimed at reducing government budget deficits through spending cuts",
+      "explanation": "Austerity measures often lead to significant reductions in public services and can impact economic growth and social welfare."
+  },
+  {
+      "question": "What does 'political apathy' refer to?",
+      "options": ["A lack of interest or concern about political issues", "A type of election", "A voting method", "A government procedure"],
+      "answer": "A lack of interest or concern about political issues",
+      "explanation": "Political apathy can hinder democratic participation and reduce accountability among elected officials."
+  }
+]

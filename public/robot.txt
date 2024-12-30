@@ -1,0 +1,27 @@
+# Allow all search engine bots to crawl the website
+User-agent: *
+Disallow:
+
+# Block access to admin, API, coordinator dashboard, and private folders
+Disallow: /admin/
+Disallow: /api/
+Disallow: /coordinatorDashboard/
+Disallow: /dashboard/
+
+# Block payment pages and profile folders (private data)
+Disallow: /payment/
+Disallow: /profile/
+
+# Block temporary files or unnecessary routes
+Disallow: /temp/
+Disallow: /drafts/
+
+# Allow verification page for public access
+Allow: /verifycertificate
+
+# Disallow duplicate or search result query parameters
+Disallow: /*?
+Disallow: /*search=
+
+# Sitemap for better crawling
+Sitemap: https://gio.international/sitemap.xml
